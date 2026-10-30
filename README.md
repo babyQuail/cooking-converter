@@ -1,4 +1,4 @@
-# 🥄 Unit Converter
+# 🥄 Cooking Converter
 
 A small command-line tool for converting cooking measurements, so you can follow a recipe written in units you don't normally use without searching the web each time.
 

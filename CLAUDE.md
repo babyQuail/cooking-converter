@@ -1,4 +1,4 @@
-# Unit Converter
+# Cooking Converter
 
 A small personal tool for converting a number from one unit to another, so there's no need to search the web for a converter each time. See [BRIEF.md](BRIEF.md) for the full brief.
 
